@@ -36,7 +36,7 @@ importlib-resources==1.2.0
 ipaddress==1.0.22
 iptools==0.7.0
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 macholib==1.5.1
 Mako==1.1.1
 MarkupSafe==1.1.1
