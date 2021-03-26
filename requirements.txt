@@ -101,7 +101,7 @@ PySimpleGUI==4.19.0
 PySocks==1.7.1
 python-dateutil==1.5
 pytz==2013.7
-PyYAML==5.3
+PyYAML==5.4
 query-string==2019.4.13
 request==2019.4.13
 requests==2.20.0
